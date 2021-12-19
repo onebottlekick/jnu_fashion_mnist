@@ -2,4 +2,4 @@
 
 fashion mnist data classification with tensorflow.
 
-![leader_board](dacon_leader_board.png)
+![leader_board](dacon_leader_board1.png)
